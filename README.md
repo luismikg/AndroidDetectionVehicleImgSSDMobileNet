@@ -1,1 +1,1 @@
-# AndroidDetectionVehicleImgSSDMobileNet-
+# AndroidDetectionVehicleImgSSDMobileNet
